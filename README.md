@@ -24,5 +24,5 @@ E muito mais!
 
 ## 🛠️ Abrir e rodar o projeto
 
-organo-ts-theta.vercel.app
+https://organo-ts-theta.vercel.app/
 
